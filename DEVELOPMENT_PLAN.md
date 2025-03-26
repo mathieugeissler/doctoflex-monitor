@@ -1,14 +1,24 @@
+# NE JAMAIS EDITER CE FICHIER
 # Plan de Développement - DoctofleX Monitor
 
 ## Standards de Développement
 1. Architecture et Principes
    - Utilisation de TypeScript pour un typage fort
-   - Application des principes SOLID, en particulier SRP (Single Responsibility Principle)
    - Architecture en couches :
      * Controllers : Gestion des requêtes HTTP
      * Services : Logique métier
      * Repositories : Accès aux données/fichiers
      * Models : Interfaces et types TypeScript
+   - Utilisation des design patterns adaptés
+     * Singleton pour la configuration
+     * Observer pour la notification des clients
+     * Factory pour la création des instances
+   - Utilisation des principes SOLID
+     * SRP (Single Responsibility Principle)
+     * OCP (Open/Closed Principle)
+     * LSP (Liskov Substitution Principle)
+     * ISP (Interface Segregation Principle)
+     * DIP (Dependency Inversion Principle)
 
 2. Qualité de Code
    - Tests unitaires et d'intégration avec Jest
@@ -151,16 +161,17 @@
      }
      ```
    - Écrire les tests unitaires du scraper
-     * Utiliser test/fixture/calendar.html comme page de test
-     * Tester l'extraction des créneaux et URLs depuis le HTML
+     * Utiliser test/fixtures/calendar.html comme page d'example c'est une copie du site a scrapper, tu ne dois jamais modifier cette page
+     * Tester l'extraction des créneaux et URLs depuis le HTML en mockant pupeteer
      * Tester le parsing des dates et heures
      * Tester la validité des URLs de réservation
      * Tester les cas d'erreur (page invalide, pas de créneaux)
-   - Écrire les tests d'intégration avec Doctoflex
-     * Tester la navigation sur le site réel
-     * Tester la sélection du type de rendez-vous
-     * Tester la récupération du calendrier et des liens
+   - Écrire un test d'intégration avec l'url Doctoflex: https://www.doctoflex.fr/details/213049
+     * Tester la récupération des créneaux et des liens
    - Implémenter la navigation automatisée
+     * Naviguer vers la page de réservation
+     * Sélectionner le type de rendez-vous "Déjà venu"
+     * Attendre le chargement du calendrier
    - Développer l'extraction des créneaux et URLs
    - Gérer le parsing des dates
 
@@ -185,49 +196,15 @@
      * Tester l'envoi des notifications
      * Vérifier la réception par les clients
    - Implémenter l'intégration Socket.IO
-     * Envoyer les créneaux disponibles
-     * Inclure l'horodatage de la dernière vérification
+     * Envoyer une notification "Nouveau creneaux disponible" uniquement si des nouveaux creneaux ont été trouvé par le scrapper
    - Gérer les connexions WebSocket
 
 5. Serveur Express
-   - Écrire les tests des routes API
-     * GET /api/slots
-       - Entrée: Query params (startDate?: Date, endDate?: Date, forceRefresh?: boolean)
-       - Sortie: {
-           slots: Array<{ date: string, time: string, bookingUrl: string }>,
-           lastCheck: Date,
-           nextCheck?: Date
-         }
-     * POST /api/monitor
-       - Entrée: { startDate?: Date, endDate?: Date, interval?: number }
-       - Sortie: { status: 'started' | 'updated', monitorId: string }
-     * DELETE /api/monitor/:monitorId
-       - Entrée: monitorId dans l'URL
-       - Sortie: { status: 'stopped' }
-     * GET /api/status
-       - Entrée: Aucune
-       - Sortie: {
-           isMonitoring: boolean,
-           lastCheck: Date,
-           nextCheck?: Date,
-           config: {
-             monitoringInterval: number,
-             notifications: {
-               enabled: boolean,
-               sound: boolean
-             }
-           }
-         }
-     * PUT /api/config
-       - Entrée: Partial<ConfigFormData>
-       - Sortie: ConfigFormData
-   - Implémenter les routes API avec validation des entrées
    - Intégrer les middlewares (cors, error handling, logging)
    - Implémenter la gestion d'erreurs
      * 400: Bad Request (paramètres invalides)
      * 404: Not Found (monitorId invalide)
      * 500: Internal Server Error
-   - Mettre en place la documentation OpenAPI/Swagger
 
 ## Phase 3: Frontend
 1. Structure de Base
@@ -285,13 +262,10 @@
        ```
      * Modale compacte et épurée
        - Fréquence de vérification
-         * Select avec options : 30s, 1min, 2min, 5min
+         * Select avec options : 1h, 4h, 8h, 12h, 24h
        - Notifications
          * Switch principal activer/désactiver
-         * Checkbox pour le son
-       - Actions
-         * Bouton Sauvegarder
-         * Bouton Annuler
+       - Les modifications sont sauvegardées automatiquement
    - Créer le tableau des créneaux
      * États du tableau
        - État de chargement
@@ -320,7 +294,6 @@
    - Concevoir les notifications
      * Toast notifications minimalistes
      * Animation d'entrée/sortie fluide
-     * Son discret et option de désactivation
 
 3. Intégration Socket.IO Client
    - Écrire les tests d'intégration WebSocket
@@ -332,7 +305,6 @@
    - Implémenter la réception des créneaux
      * Animation subtile des nouveaux créneaux
      * Badge de notification élégant
-     * Son de notification personnalisable
      * Transition fluide dans la liste
 
 ## Phase 4: Tests E2E et Optimisation

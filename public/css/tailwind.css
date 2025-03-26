@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Styles personnalisés */
+.slot-card {
+    @apply p-4 border border-gray-200 rounded-lg hover:shadow-md transition-shadow;
+}
+
+.slot-date {
+    @apply text-lg font-semibold text-primary;
+}
+
+.slot-time {
+    @apply text-secondary;
+}
+
+.slot-link {
+    @apply mt-2 inline-block px-4 py-2 bg-primary text-white rounded hover:bg-primary/90 transition-colors;
+}

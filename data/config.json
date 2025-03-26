@@ -1,0 +1,13 @@
+{
+  "doctorUrl": "https://www.doctoflex.fr/details/213049",
+  "monitoringInterval": 1,
+  "autoRefresh": true,
+  "dateRange": {
+    "startDate": null,
+    "endDate": null
+  },
+  "notifications": {
+    "enabled": true,
+    "preferences": {}
+  }
+}

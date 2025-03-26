@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="fr" class="h-full">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DoctofleX Monitor</title>
+    <link href="css/style.css" rel="stylesheet">
+    <script src="/socket.io/socket.io.js"></script>
+    <script type="module" src="js/app.js"></script>
+</head>
+<body class="h-full bg-gray-50">
+    <div class="min-h-full">
+        <nav class="bg-blue-500 shadow-lg">
+            <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+                <div class="flex h-16 items-center justify-between">
+                    <div class="flex items-center gap-4">
+                        <div class="flex-shrink-0">
+                            <h1 class="text-2xl font-bold text-white">DoctofleX Monitor</h1>
+                        </div>
+                        <div class="flex items-center gap-2">
+                            <div id="status-indicator" class="inactive" title="Statut du monitoring"></div>
+                            <span id="status-text" class="text-sm font-medium text-white">Inactif</span>
+                            <span id="last-check" class="text-sm text-white opacity-75"></span>
+                        </div>
+                    </div>
+                    <div class="flex items-center gap-4">
+                        <button id="open-settings" class="btn-secondary">
+                            <svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z" />
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+                            </svg>
+                            <span>Configuration</span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </nav>
+
+        <main class="py-8">
+            <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 space-y-8">
+                <div class="flex justify-between items-center mb-6">
+                    <div class="flex items-center gap-4">
+                        <div id="date-filter"></div>
+                    </div>
+                    <div id="last-update" class="text-sm text-gray-600 hidden"></div>
+                </div>
+                <!-- Filtres -->
+                <div class="card">
+                    <div class="flex items-center justify-between mb-6">
+                        <h2 class="text-xl font-semibold text-gray-800">Filtres de recherche</h2>
+                        <button id="toggle-monitoring" class="btn-primary">
+                            <svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z" />
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                            </svg>
+                            <span>Démarrer le monitoring</span>
+                        </button>
+                    </div>
+                    <div class="grid grid-cols-1 gap-x-6 gap-y-4 sm:grid-cols-2">
+                        <div>
+                            <label for="startDate" class="form-label">Date de début</label>
+                            <input type="date" id="startDate" class="form-input">
+                        </div>
+                        <div>
+                            <label for="endDate" class="form-label">Date de fin</label>
+                            <input type="date" id="endDate" class="form-input">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Liste des créneaux -->
+                <div class="card">
+                    <div class="flex items-center justify-between mb-6">
+                        <div>
+                            <h2 class="text-xl font-semibold text-gray-800">Créneaux disponibles</h2>
+                            <p class="mt-2 text-sm text-gray-600">Liste des créneaux de rendez-vous disponibles</p>
+                        </div>
+                        <button id="refresh-slots" class="btn-secondary">
+                            <svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+                            </svg>
+                            <span>Rafraîchir</span>
+                        </button>
+                    </div>
+                    <div id="slots-container" class="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+                        <!-- Skeleton loader -->
+                        <template id="skeleton-template">
+                            <div class="card animate-pulse">
+                                <div class="h-4 bg-gray-200 rounded w-3/4 mb-4"></div>
+                                <div class="h-3 bg-gray-200 rounded w-1/2 mb-2"></div>
+                                <div class="h-3 bg-gray-200 rounded w-2/3"></div>
+                            </div>
+                        </template>
+                        <!-- Les créneaux seront injectés ici dynamiquement -->
+                    </div>
+                    <!-- Indicateur de progression -->
+                    <div id="progress-indicator" class="fixed bottom-4 right-4 transform transition-transform duration-300 translate-y-full opacity-0">
+                        <div class="bg-primary-600 text-white px-4 py-2 rounded-lg shadow-lg flex items-center gap-2">
+                            <svg class="animate-spin h-5 w-5" viewBox="0 0 24 24">
+                                <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+                                <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                            </svg>
+                            <span>Rafraîchissement en cours...</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <!-- Notifications -->
+        <div id="notification" class="fixed bottom-0 right-0 p-6 space-y-4 z-50">
+            <!-- Les notifications seront injectées ici dynamiquement -->
+        </div>
+
+        <!-- Modal de configuration -->
+        <div id="settings-modal" class="modal hidden">
+            <div class="modal-overlay"></div>
+            <div class="modal-container">
+                <div class="modal-header">
+                    <h3 class="text-xl font-semibold text-gray-800">Configuration</h3>
+                    <button id="close-settings" class="modal-close">
+                        <svg class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                        </svg>
+                    </button>
+                </div>
+                <div class="modal-body space-y-6">
+                    <div>
+                        <h4 class="text-lg font-medium text-gray-800 mb-4">Monitoring</h4>
+                        <div class="space-y-4">
+                            <div>
+                                <label for="interval" class="form-label">Intervalle de vérification (minutes)</label>
+                                <input type="number" id="interval" class="form-input" min="1" value="5">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 class="text-lg font-medium text-gray-800 mb-4">Notifications</h4>
+                        <div class="space-y-4">
+                            <div class="flex items-center justify-between">
+                                <label for="browser-notifications" class="text-sm font-medium text-gray-700">Notifications navigateur</label>
+                                <div class="relative inline-flex h-6 w-11">
+                                    <input type="checkbox" id="browser-notifications"
+                                        class="peer sr-only">
+                                    <span class="absolute inset-0 rounded-full bg-gray-300 transition peer-checked:bg-blue-500"></span>
+                                    <span class="absolute inset-y-0 left-0 m-1 h-4 w-4 rounded-full bg-white transition-all peer-checked:translate-x-5"></span>
+                                </div>
+                            </div>
+                            <div class="flex items-center justify-between">
+                                <label for="sound-notifications" class="text-sm font-medium text-gray-700">Son de notification</label>
+                                <div class="relative inline-flex h-6 w-11">
+                                    <input type="checkbox" id="sound-notifications"
+                                        class="peer sr-only">
+                                    <span class="absolute inset-0 rounded-full bg-gray-300 transition peer-checked:bg-blue-500"></span>
+                                    <span class="absolute inset-y-0 left-0 m-1 h-4 w-4 rounded-full bg-white transition-all peer-checked:translate-x-5"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mt-4 space-y-4">
+                        <!-- Notifications -->
+                        <div class="space-y-2">
+                            <h4 class="text-lg font-medium text-gray-700">Notifications</h4>
+                            <div class="flex items-center gap-2">
+                                <input type="checkbox" id="notifications-enabled" class="h-4 w-4 rounded border-gray-300">
+                                <label for="notifications-enabled" class="text-sm text-gray-700">Activer les notifications navigateur</label>
+                            </div>
+                        </div>
+                    </div>
+                    <button id="close-settings" class="modal-close">
+                        <svg class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                        </svg>
+                    </button>
+                </div>
+                <div class="modal-body space-y-6">
+                    <div>
+                        <label for="interval" class="form-label">Intervalle de vérification (minutes)</label>
+                        <input type="number" id="interval" min="1" value="1" class="form-input">
+                    </div>
+
+                    <div class="flex items-center gap-3">
+                        <input type="checkbox" id="auto-refresh" class="form-checkbox">
+                        <label for="auto-refresh" class="text-sm text-gray-600">Actualisation automatique</label>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

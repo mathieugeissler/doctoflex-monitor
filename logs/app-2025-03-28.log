@@ -1,0 +1,741 @@
+{"level":"info","logLevel":"info","message":"Environment configuration loaded","nodeEnv":"development","port":3000,"service":"doctoflex-monitor","timestamp":"2025-03-28T09:20:05.995Z"}
+{"config":{"autoRefresh":true,"dateRange":{"endDate":null,"startDate":null},"doctorUrl":"https://www.doctoflex.fr/details/213049","monitoringInterval":1,"notifications":{"enabled":true,"preferences":{}}},"level":"info","message":"Configuration chargée depuis le fichier","service":"doctoflex-monitor","timestamp":"2025-03-28T09:20:06.571Z"}
+{"level":"info","logLevel":"info","message":"Environment configuration loaded","nodeEnv":"development","port":3000,"service":"doctoflex-monitor","timestamp":"2025-03-28T09:20:48.883Z"}
+{"config":{"autoRefresh":true,"dateRange":{"endDate":null,"startDate":null},"doctorUrl":"https://www.doctoflex.fr/details/213049","monitoringInterval":1,"notifications":{"enabled":true,"preferences":{}}},"level":"info","message":"Configuration chargée depuis le fichier","service":"doctoflex-monitor","timestamp":"2025-03-28T09:20:49.051Z"}
+{"level":"info","message":"Serveur démarré sur le port 3000","service":"doctoflex-monitor","timestamp":"2025-03-28T09:20:49.054Z"}
+{"level":"info","message":"SocketService initialized","service":"doctoflex-monitor","timestamp":"2025-03-28T09:20:49.055Z"}
+{"level":"info","message":"MonitoringService initialized","service":"doctoflex-monitor","timestamp":"2025-03-28T09:20:49.057Z"}
+{"level":"info","message":"Tous les services sont initialisés","service":"doctoflex-monitor","timestamp":"2025-03-28T09:20:49.057Z"}
+{"level":"info","logLevel":"info","message":"Environment configuration loaded","nodeEnv":"development","port":3000,"service":"doctoflex-monitor","timestamp":"2025-03-28T09:26:12.687Z"}
+{"config":{"autoRefresh":true,"dateRange":{"endDate":null,"startDate":null},"doctorUrl":"https://www.doctoflex.fr/details/213049","monitoringInterval":1,"notifications":{"enabled":true,"preferences":{}}},"level":"info","message":"Configuration chargée depuis le fichier","service":"doctoflex-monitor","timestamp":"2025-03-28T09:26:13.219Z"}
+{"level":"info","message":"Serveur démarré sur le port 3000","service":"doctoflex-monitor","timestamp":"2025-03-28T09:26:13.222Z"}
+{"level":"info","message":"SocketService initialized","service":"doctoflex-monitor","timestamp":"2025-03-28T09:26:13.223Z"}
+{"level":"info","message":"MonitoringService initialized","service":"doctoflex-monitor","timestamp":"2025-03-28T09:26:13.225Z"}
+{"level":"info","message":"Tous les services sont initialisés","service":"doctoflex-monitor","timestamp":"2025-03-28T09:26:13.226Z"}
+{"level":"info","logLevel":"info","message":"Environment configuration loaded","nodeEnv":"development","port":3000,"service":"doctoflex-monitor","timestamp":"2025-03-28T09:31:29.305Z"}
+{"config":{"autoRefresh":true,"dateRange":{"endDate":null,"startDate":null},"doctorUrl":"https://www.doctoflex.fr/details/213049","monitoringInterval":1,"notifications":{"enabled":true,"preferences":{}}},"level":"info","message":"Configuration chargée depuis le fichier","service":"doctoflex-monitor","timestamp":"2025-03-28T09:31:29.506Z"}
+{"level":"info","message":"Serveur démarré sur le port 3000","service":"doctoflex-monitor","timestamp":"2025-03-28T09:31:29.510Z"}
+{"level":"info","message":"SocketService initialized","service":"doctoflex-monitor","timestamp":"2025-03-28T09:31:29.511Z"}
+{"level":"info","message":"MonitoringService initialized","service":"doctoflex-monitor","timestamp":"2025-03-28T09:31:29.512Z"}
+{"level":"info","message":"Tous les services sont initialisés","service":"doctoflex-monitor","timestamp":"2025-03-28T09:31:29.512Z"}
+{"level":"info","logLevel":"info","message":"Environment configuration loaded","nodeEnv":"development","port":3000,"service":"doctoflex-monitor","timestamp":"2025-03-28T09:33:23.741Z"}
+{"config":{"autoRefresh":true,"dateRange":{"endDate":null,"startDate":null},"doctorUrl":"https://www.doctoflex.fr/details/213049","monitoringInterval":1,"notifications":{"enabled":true,"preferences":{}}},"level":"info","message":"Configuration chargée depuis le fichier","service":"doctoflex-monitor","timestamp":"2025-03-28T09:33:23.895Z"}
+{"level":"info","message":"Serveur démarré sur le port 3000","service":"doctoflex-monitor","timestamp":"2025-03-28T09:33:23.897Z"}
+{"level":"info","message":"SocketService initialized","service":"doctoflex-monitor","timestamp":"2025-03-28T09:33:23.898Z"}
+{"level":"info","message":"MonitoringService initialized","service":"doctoflex-monitor","timestamp":"2025-03-28T09:33:23.899Z"}
+{"level":"info","message":"Tous les services sont initialisés","service":"doctoflex-monitor","timestamp":"2025-03-28T09:33:23.900Z"}
+{"level":"info","logLevel":"info","message":"Environment configuration loaded","nodeEnv":"development","port":3000,"service":"doctoflex-monitor","timestamp":"2025-03-28T09:34:59.803Z"}
+{"config":{"autoRefresh":true,"dateRange":{"endDate":null,"startDate":null},"doctorUrl":"https://www.doctoflex.fr/details/213049","monitoringInterval":1,"notifications":{"enabled":true,"preferences":{}}},"level":"info","message":"Configuration chargée depuis le fichier","service":"doctoflex-monitor","timestamp":"2025-03-28T09:34:59.966Z"}
+{"level":"info","message":"Serveur démarré sur le port 3000","service":"doctoflex-monitor","timestamp":"2025-03-28T09:34:59.969Z"}
+{"level":"info","message":"SocketService initialized","service":"doctoflex-monitor","timestamp":"2025-03-28T09:34:59.971Z"}
+{"level":"info","message":"MonitoringService initialized","service":"doctoflex-monitor","timestamp":"2025-03-28T09:34:59.972Z"}
+{"level":"info","message":"Tous les services sont initialisés","service":"doctoflex-monitor","timestamp":"2025-03-28T09:34:59.972Z"}
+{"level":"info","logLevel":"info","message":"Environment configuration loaded","nodeEnv":"development","port":3000,"service":"doctoflex-monitor","timestamp":"2025-03-28T09:37:49.623Z"}
+{"config":{"autoRefresh":true,"dateRange":{"endDate":null,"startDate":null},"doctorUrl":"https://www.doctoflex.fr/details/213049","monitoringInterval":1,"notifications":{"enabled":true,"preferences":{}}},"level":"info","message":"Configuration chargée depuis le fichier","service":"doctoflex-monitor","timestamp":"2025-03-28T09:37:49.797Z"}
+{"level":"info","message":"Serveur démarré sur le port 3000","service":"doctoflex-monitor","timestamp":"2025-03-28T09:37:49.801Z"}
+{"level":"info","message":"SocketService initialized","service":"doctoflex-monitor","timestamp":"2025-03-28T09:37:49.802Z"}
+{"level":"info","message":"MonitoringService initialized","service":"doctoflex-monitor","timestamp":"2025-03-28T09:37:49.803Z"}
+{"level":"info","message":"Tous les services sont initialisés","service":"doctoflex-monitor","timestamp":"2025-03-28T09:37:49.803Z"}
+{"level":"info","logLevel":"info","message":"Environment configuration loaded","nodeEnv":"development","port":3000,"service":"doctoflex-monitor","timestamp":"2025-03-28T09:40:41.104Z"}
+{"config":{"autoRefresh":true,"dateRange":{"endDate":null,"startDate":null},"doctorUrl":"https://www.doctoflex.fr/details/213049","monitoringInterval":1,"notifications":{"enabled":true,"preferences":{}}},"level":"info","message":"Configuration chargée depuis le fichier","service":"doctoflex-monitor","timestamp":"2025-03-28T09:40:41.586Z"}
+{"level":"info","message":"Serveur démarré sur le port 3000","service":"doctoflex-monitor","timestamp":"2025-03-28T09:40:41.589Z"}
+{"level":"info","message":"SocketService initialized","service":"doctoflex-monitor","timestamp":"2025-03-28T09:40:41.591Z"}
+{"level":"info","message":"MonitoringService initialized","service":"doctoflex-monitor","timestamp":"2025-03-28T09:40:41.592Z"}
+{"level":"info","message":"Tous les services sont initialisés","service":"doctoflex-monitor","timestamp":"2025-03-28T09:40:41.592Z"}
+{"level":"info","logLevel":"info","message":"Environment configuration loaded","nodeEnv":"development","port":3000,"service":"doctoflex-monitor","timestamp":"2025-03-28T09:44:31.411Z"}
+{"config":{"autoRefresh":true,"dateRange":{"endDate":null,"startDate":null},"doctorUrl":"https://www.doctoflex.fr/details/213049","monitoringInterval":1,"notifications":{"enabled":true,"preferences":{}}},"level":"info","message":"Configuration chargée depuis le fichier","service":"doctoflex-monitor","timestamp":"2025-03-28T09:44:31.633Z"}
+{"level":"info","message":"Serveur démarré sur le port 3000","service":"doctoflex-monitor","timestamp":"2025-03-28T09:44:31.636Z"}
+{"level":"info","message":"SocketService initialized","service":"doctoflex-monitor","timestamp":"2025-03-28T09:44:31.638Z"}
+{"level":"info","message":"MonitoringService initialized","service":"doctoflex-monitor","timestamp":"2025-03-28T09:44:31.639Z"}
+{"level":"info","message":"Tous les services sont initialisés","service":"doctoflex-monitor","timestamp":"2025-03-28T09:44:31.640Z"}
+{"level":"info","message":"Client connecté: JESjDz_MR_ZzTeCuAAAB","service":"doctoflex-monitor","timestamp":"2025-03-28T09:44:42.025Z"}
+{"level":"info","logLevel":"info","message":"Environment configuration loaded","nodeEnv":"development","port":3000,"service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:05.007Z"}
+{"config":{"autoRefresh":true,"dateRange":{"endDate":null,"startDate":null},"doctorUrl":"https://www.doctoflex.fr/details/213049","monitoringInterval":1,"notifications":{"enabled":true,"preferences":{}}},"level":"info","message":"Configuration chargée depuis le fichier","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:05.191Z"}
+{"level":"info","message":"Serveur démarré sur le port 3000","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:05.194Z"}
+{"level":"info","message":"SocketService initialized","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:05.196Z"}
+{"level":"info","message":"MonitoringService initialized","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:05.197Z"}
+{"level":"info","message":"Tous les services sont initialisés","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:05.197Z"}
+{"level":"info","message":"Client connecté: JmR3TFpea6ijvzU2AAAB","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:05.850Z"}
+{"level":"info","message":"Envoi de l'état du monitoring au client JmR3TFpea6ijvzU2AAAB: inactif","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:05.850Z"}
+{"level":"info","message":"Envoi des créneaux sauvegardés au client JmR3TFpea6ijvzU2AAAB","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:05.853Z"}
+{"level":"info","message":"Demande de démarrage du monitoring reçue du client JmR3TFpea6ijvzU2AAAB","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:25.491Z"}
+{"level":"info","message":"Démarrage du monitoring global","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:25.491Z"}
+{"level":"info","message":"Démarrage du monitoring...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:25.491Z"}
+{"level":"info","message":"Configuration du cron job avec un intervalle de 60000ms (1 minutes)","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:25.491Z"}
+{"data":{"isActive":true},"level":"info","message":"Notified clients of monitoring:status","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:25.492Z"}
+{"level":"info","message":"État du monitoring mis à jour: actif","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:25.492Z"}
+{"level":"info","message":"Lancement du premier rafraîchissement...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:25.492Z"}
+{"level":"info","message":"Tentative de rafraîchissement 1/3","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:25.492Z"}
+{"level":"info","message":"Créneaux précédents chargés","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:25.493Z"}
+{"level":"info","message":"Début de l'extraction des créneaux","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:25.493Z"}
+{"level":"info","message":"Navigateur non initialisé, initialisation...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:25.493Z"}
+{"level":"info","message":"Initialisation du navigateur...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:25.493Z"}
+{"level":"info","message":"Instance du navigateur créée","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.005Z"}
+{"level":"info","message":"Utilisation de la page existante","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.037Z"}
+{"level":"info","message":"Page prête","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.037Z"}
+{"level":"info","message":"Navigateur initialisé avec succès","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.037Z"}
+{"level":"info","message":"Initialisation terminée","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.038Z"}
+{"level":"info","message":"Navigation vers https://www.doctoflex.fr/details/213049...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.038Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/details/213049","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.092Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/details/213049 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.248Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/css/chosen.css","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.260Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/css/style.css","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.260Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/css/jquery.minimalect.min.css","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.260Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/font-awesome.min.css?v=1","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.261Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/js/prototype.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.261Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/js/jquery-1.8.2.min.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.262Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/js/jQuery_v1.7.2.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.262Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/js/jquery.minimalect.min.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.262Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/js/setup.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.263Z"}
+{"level":"info","message":"Requête: https://fonts.googleapis.com/css?family=Ubuntu&subset=latin","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.263Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/reset.css?v=1","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.263Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/style.css?v=1","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.263Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/colors.css?v=1","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.263Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/modal.css?v=1","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.263Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/form.css?v=1","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.263Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/agenda.css?v=1","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.263Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/jquery-ui.css","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.263Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/bootstrap-datepicker/bootstrap-datepicker3.css","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.263Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/custom-datepicker.css","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.263Z"}
+{"level":"info","message":"Requête: https://fonts.googleapis.com/css?family=Open+Sans:300","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.264Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/extern/libs/modernizr.custom.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.264Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/logo.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.264Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/docteurs/avatars/MSR6tnu2VYmTVhMTG9ue.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.264Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/css/print.css","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.265Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/jquery.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.269Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/extern/setup.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.269Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/extern/navigable.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.269Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/extern/input.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.269Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/extern/modal.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.269Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/extern/tooltip.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.269Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/jquery-ui.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.269Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/datepicker-fr.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.270Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps/api/js?key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&v=3.exp","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.270Z"}
+{"level":"info","message":"Requête: https://cdn.rawgit.com/googlemaps/v3-utility-library/infobox/1.1.13/src/infobox.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.270Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/js/gmaps/gmaps.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.270Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/css/chosen.css - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.300Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/css/style.css - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.333Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/css/jquery.minimalect.min.css - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.339Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/font-awesome.min.css?v=1 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.358Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/reset.css?v=1 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.359Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/colors.css?v=1 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.360Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/style.css?v=1 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.361Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/modal.css?v=1 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.363Z"}
+{"level":"info","message":"Réponse: https://fonts.googleapis.com/css?family=Ubuntu&subset=latin - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.373Z"}
+{"level":"info","message":"Réponse: https://fonts.googleapis.com/css?family=Open+Sans:300 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.378Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/agenda.css?v=1 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.393Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/jquery-ui.css - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.395Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/form.css?v=1 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.395Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/bootstrap-datepicker/bootstrap-datepicker3.css - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.396Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/custom-datepicker.css - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.443Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/js/jquery.minimalect.min.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.448Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/js/prototype.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.482Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/logo.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.496Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/js/setup.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.497Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/extern/libs/modernizr.custom.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.498Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/js/jquery-1.8.2.min.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.498Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/docteurs/avatars/MSR6tnu2VYmTVhMTG9ue.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.514Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/js/jQuery_v1.7.2.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.520Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/jquery.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.589Z"}
+{"level":"info","message":"Console du navigateur:","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.590Z"}
+{"level":"info","message":"Requête: http://s7.addthis.com/js/300/addthis_widget.js#pubid=xa-5054e6c6502d114f","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.610Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/_patterns/default/white/1.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.611Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/sprite-icons-user.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.611Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/sprite.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.611Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/_patterns/default/grain2.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.611Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/_patterns/default/1.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.612Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/sprite-icons-social.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.612Z"}
+{"level":"info","message":"Requête: https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKfw72nU6AFw.woff2","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.612Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/fonts/fontawesome-webfont.woff?v=4.1.0","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.612Z"}
+{"level":"info","message":"Réponse: https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKfw72nU6AFw.woff2 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.651Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/sprite.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.690Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/sprite-icons-user.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.691Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/_patterns/default/white/1.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.691Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/_patterns/default/grain2.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.738Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/extern/setup.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.740Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/css/print.css - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.741Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/extern/navigable.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.742Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/extern/modal.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.778Z"}
+{"level":"info","message":"Réponse: https://cdn.rawgit.com/googlemaps/v3-utility-library/infobox/1.1.13/src/infobox.js - Status: 301","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.780Z"}
+{"level":"info","message":"Requête: https://cdn.jsdelivr.net/gh/googlemaps/v3-utility-library@infobox/1.1.13/src/infobox.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.780Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/extern/tooltip.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.781Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/extern/input.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.801Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/datepicker-fr.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.811Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/fonts/fontawesome-webfont.woff?v=4.1.0 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.826Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/_patterns/default/1.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.829Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps/api/js?key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&v=3.exp - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.831Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/sprite-icons-social.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.845Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/js/gmaps/gmaps.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.849Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/jquery-ui.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.878Z"}
+{"level":"info","message":"Console du navigateur:","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.900Z"}
+{"level":"info","message":"Console du navigateur:","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.900Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.902Z"}
+{"level":"info","message":"Réponse: https://cdn.jsdelivr.net/gh/googlemaps/v3-utility-library@infobox/1.1.13/src/infobox.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.925Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/images/ui-icons_222222_256x240.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.953Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.956Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/common.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.964Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/util.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.964Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/geocoder.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.964Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/images/ui-icons_222222_256x240.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:27.966Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/geocoder.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:28.013Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/common.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:28.043Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/util.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:28.050Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttps%3A%2F%2Fwww.doctoflex.fr%2Fdetails%2F213049&4sAIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&8b0&callback=_xdc_._gjnj50&key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&token=120817","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:28.055Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttps%3A%2F%2Fwww.doctoflex.fr%2Fdetails%2F213049&4sAIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&8b0&callback=_xdc_._gjnj50&key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&token=120817 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:28.115Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps/api/js/GeocodeService.Search?4s203%20Route%20de%20Lyon%2C%20Illkirch-Graffenstaden%2067400%2C%20france&9sfr-FR&r_url=https%3A%2F%2Fwww.doctoflex.fr%2Fdetails%2F213049&callback=_xdc_._aoemdu&key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&token=34776","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:28.116Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps/api/js/GeocodeService.Search?4s203%20Route%20de%20Lyon%2C%20Illkirch-Graffenstaden%2067400%2C%20france&9sfr-FR&r_url=https%3A%2F%2Fwww.doctoflex.fr%2Fdetails%2F213049&callback=_xdc_._aoemdu&key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&token=34776 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:28.173Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/map.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:28.179Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps/api/js/StaticMapService.GetMapImage?1m2&1i4373784&2i2897408&2e1&3u15&4m2&1u344&2u300&5m6&1e0&5sfr-FR&6sus&10b1&12b1&14i47083502&key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&token=61401","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:28.180Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps/api/js/StaticMapService.GetMapImage?1m2&1i4373784&2i2897408&2e1&3u15&4m2&1u344&2u300&5m6&1e0&5sfr-FR&6sus&10b1&12b1&14i47083502&key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&token=61401 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:28.205Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/map.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:28.206Z"}
+{"level":"info","message":"Requête: https://maps.gstatic.com/mapfiles/api-3/images/icon_error.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:28.209Z"}
+{"level":"info","message":"Réponse: https://maps.gstatic.com/mapfiles/api-3/images/icon_error.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:29.143Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/favicon.ico","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:29.145Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/favicon.ico - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:29.171Z"}
+{"level":"info","message":"Page chargée avec statut: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:29.787Z"}
+{"level":"info","message":"Attente du sélecteur de type de rendez-vous...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:29.788Z"}
+{"level":"info","message":"Sélecteur trouvé","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:29.806Z"}
+{"level":"info","message":"Sélection du type de rendez-vous (1973)...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:29.806Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/extern/days/available","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:29.809Z"}
+{"level":"info","message":"Type de rendez-vous sélectionné","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:29.809Z"}
+{"level":"info","message":"Attente de la mise à jour du calendrier...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:29.809Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/extern/days/available - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:29.865Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/extern/days/available","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:29.866Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/extern/days/available - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:29.914Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/images/ajax-loader2.gif","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:29.915Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/extern/days/available","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:29.915Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/extern/days/available - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:30.023Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/extern/days/available","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:30.025Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/extern/days/available - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:30.104Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/images/ajax-loader2.gif - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:30.105Z"}
+{"level":"info","message":"Console du navigateur:","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:30.179Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/marker.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:30.180Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/marker.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:30.218Z"}
+{"level":"info","message":"Calendrier chargé","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:30.816Z"}
+{"error":{"name":"TimeoutError"},"level":"error","message":"Erreur lors de l'attente des créneaux","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:35.891Z"}
+{"error":{"name":"TimeoutError"},"level":"error","message":"Erreur lors de l'extraction des créneaux:","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:35.892Z"}
+{"level":"info","message":"Fermeture du navigateur...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:35.892Z"}
+{"level":"info","message":"Fermeture de la page...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:35.892Z"}
+{"level":"info","message":"Page fermée","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:35.902Z"}
+{"level":"info","message":"Fermeture du navigateur...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:35.902Z"}
+{"level":"info","message":"Navigateur fermé","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:36.088Z"}
+{"level":"info","message":"Nettoyage terminé","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:36.088Z"}
+{"level":"info","message":"Fin de l'extraction des créneaux","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:36.088Z"}
+{"level":"info","message":"Nouveaux créneaux extraits","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:36.089Z"}
+{"level":"info","message":"Aucun créneau trouvé, on réessaie...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:36.089Z"}
+{"level":"info","message":"Tentative de rafraîchissement 2/3","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.090Z"}
+{"level":"info","message":"Créneaux précédents chargés","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.096Z"}
+{"level":"info","message":"Début de l'extraction des créneaux","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.096Z"}
+{"level":"info","message":"Navigateur non initialisé, initialisation...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.096Z"}
+{"level":"info","message":"Initialisation du navigateur...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.096Z"}
+{"level":"info","message":"Instance du navigateur créée","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.683Z"}
+{"level":"info","message":"Utilisation de la page existante","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.712Z"}
+{"level":"info","message":"Page prête","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.712Z"}
+{"level":"info","message":"Navigateur initialisé avec succès","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.712Z"}
+{"level":"info","message":"Initialisation terminée","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.712Z"}
+{"level":"info","message":"Navigation vers https://www.doctoflex.fr/details/213049...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.712Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/details/213049","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.762Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/details/213049 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.937Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/css/chosen.css","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.945Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/css/style.css","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.945Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/css/jquery.minimalect.min.css","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.945Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/font-awesome.min.css?v=1","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.946Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/js/prototype.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.946Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/js/jquery-1.8.2.min.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.946Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/js/jQuery_v1.7.2.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.946Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/js/jquery.minimalect.min.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.946Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/js/setup.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.946Z"}
+{"level":"info","message":"Requête: https://fonts.googleapis.com/css?family=Ubuntu&subset=latin","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.946Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/reset.css?v=1","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.946Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/style.css?v=1","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.947Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/colors.css?v=1","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.947Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/modal.css?v=1","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.947Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/form.css?v=1","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.947Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/agenda.css?v=1","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.947Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/jquery-ui.css","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.947Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/bootstrap-datepicker/bootstrap-datepicker3.css","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.947Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/custom-datepicker.css","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.947Z"}
+{"level":"info","message":"Requête: https://fonts.googleapis.com/css?family=Open+Sans:300","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.948Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/extern/libs/modernizr.custom.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.948Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/logo.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.948Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/docteurs/avatars/MSR6tnu2VYmTVhMTG9ue.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.949Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/css/print.css","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.949Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/jquery.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.969Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/extern/setup.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.970Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/extern/navigable.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.970Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/extern/input.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.970Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/extern/modal.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.970Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/extern/tooltip.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.970Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/jquery-ui.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.970Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/datepicker-fr.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.970Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps/api/js?key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&v=3.exp","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.970Z"}
+{"level":"info","message":"Requête: https://cdn.rawgit.com/googlemaps/v3-utility-library/infobox/1.1.13/src/infobox.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.970Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/js/gmaps/gmaps.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:41.970Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/css/chosen.css - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.010Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/css/jquery.minimalect.min.css - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.028Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/css/style.css - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.032Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/font-awesome.min.css?v=1 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.033Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/reset.css?v=1 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.040Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/colors.css?v=1 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.044Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/style.css?v=1 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.045Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/modal.css?v=1 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.064Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/form.css?v=1 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.065Z"}
+{"level":"info","message":"Réponse: https://fonts.googleapis.com/css?family=Ubuntu&subset=latin - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.066Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/agenda.css?v=1 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.068Z"}
+{"level":"info","message":"Réponse: https://fonts.googleapis.com/css?family=Open+Sans:300 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.068Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/jquery-ui.css - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.078Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/custom-datepicker.css - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.099Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/bootstrap-datepicker/bootstrap-datepicker3.css - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.100Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/js/jquery.minimalect.min.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.129Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/extern/libs/modernizr.custom.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.131Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/js/prototype.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.132Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/js/jquery-1.8.2.min.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.144Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/logo.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.152Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/docteurs/avatars/MSR6tnu2VYmTVhMTG9ue.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.177Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/js/jQuery_v1.7.2.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.182Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/js/setup.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.219Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/jquery.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.243Z"}
+{"level":"info","message":"Console du navigateur:","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.244Z"}
+{"level":"info","message":"Requête: http://s7.addthis.com/js/300/addthis_widget.js#pubid=xa-5054e6c6502d114f","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.259Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/_patterns/default/white/1.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.260Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/sprite-icons-user.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.260Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/sprite.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.261Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/_patterns/default/grain2.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.261Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/_patterns/default/1.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.261Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/sprite-icons-social.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.261Z"}
+{"level":"info","message":"Requête: https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKfw72nU6AFw.woff2","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.263Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/fonts/fontawesome-webfont.woff?v=4.1.0","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.263Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/css/print.css - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.268Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/_patterns/default/white/1.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.273Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/_patterns/default/grain2.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.274Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/sprite-icons-user.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.278Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/sprite.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.280Z"}
+{"level":"info","message":"Réponse: https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKfw72nU6AFw.woff2 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.303Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/fonts/fontawesome-webfont.woff?v=4.1.0 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.335Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/extern/navigable.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.370Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/extern/modal.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.382Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/extern/setup.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.394Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/extern/input.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.400Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/extern/tooltip.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.404Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/datepicker-fr.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.425Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/_patterns/default/1.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.429Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/sprite-icons-social.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.442Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps/api/js?key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&v=3.exp - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.460Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/js/gmaps/gmaps.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.486Z"}
+{"level":"info","message":"Réponse: https://cdn.rawgit.com/googlemaps/v3-utility-library/infobox/1.1.13/src/infobox.js - Status: 301","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.487Z"}
+{"level":"info","message":"Requête: https://cdn.jsdelivr.net/gh/googlemaps/v3-utility-library@infobox/1.1.13/src/infobox.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.487Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/jquery-ui.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.529Z"}
+{"level":"info","message":"Console du navigateur:","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.549Z"}
+{"level":"info","message":"Console du navigateur:","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.549Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.551Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.593Z"}
+{"level":"info","message":"Réponse: https://cdn.jsdelivr.net/gh/googlemaps/v3-utility-library@infobox/1.1.13/src/infobox.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.634Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/images/ui-icons_222222_256x240.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.651Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/common.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.660Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/util.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.661Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/geocoder.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.661Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/images/ui-icons_222222_256x240.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.673Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/geocoder.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.697Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/common.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.705Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/util.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.728Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttps%3A%2F%2Fwww.doctoflex.fr%2Fdetails%2F213049&4sAIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&8b0&callback=_xdc_._gjnj50&key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&token=120817","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.733Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttps%3A%2F%2Fwww.doctoflex.fr%2Fdetails%2F213049&4sAIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&8b0&callback=_xdc_._gjnj50&key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&token=120817 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.790Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps/api/js/GeocodeService.Search?4s203%20Route%20de%20Lyon%2C%20Illkirch-Graffenstaden%2067400%2C%20france&9sfr-FR&r_url=https%3A%2F%2Fwww.doctoflex.fr%2Fdetails%2F213049&callback=_xdc_._aoemdu&key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&token=34776","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.791Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps/api/js/GeocodeService.Search?4s203%20Route%20de%20Lyon%2C%20Illkirch-Graffenstaden%2067400%2C%20france&9sfr-FR&r_url=https%3A%2F%2Fwww.doctoflex.fr%2Fdetails%2F213049&callback=_xdc_._aoemdu&key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&token=34776 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.843Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/map.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.848Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps/api/js/StaticMapService.GetMapImage?1m2&1i4373784&2i2897408&2e1&3u15&4m2&1u344&2u300&5m6&1e0&5sfr-FR&6sus&10b1&12b1&14i47083502&key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&token=61401","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.850Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/map.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.882Z"}
+{"level":"info","message":"Requête: https://maps.gstatic.com/mapfiles/api-3/images/icon_error.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.884Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps/api/js/StaticMapService.GetMapImage?1m2&1i4373784&2i2897408&2e1&3u15&4m2&1u344&2u300&5m6&1e0&5sfr-FR&6sus&10b1&12b1&14i47083502&key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&token=61401 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:42.962Z"}
+{"level":"info","message":"Réponse: https://maps.gstatic.com/mapfiles/api-3/images/icon_error.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:43.833Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/favicon.ico","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:43.835Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/favicon.ico - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:43.868Z"}
+{"level":"info","message":"Page chargée avec statut: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:44.501Z"}
+{"level":"info","message":"Attente du sélecteur de type de rendez-vous...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:44.501Z"}
+{"level":"info","message":"Sélecteur trouvé","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:44.534Z"}
+{"level":"info","message":"Sélection du type de rendez-vous (1973)...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:44.534Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/extern/days/available","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:44.537Z"}
+{"level":"info","message":"Type de rendez-vous sélectionné","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:44.537Z"}
+{"level":"info","message":"Attente de la mise à jour du calendrier...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:44.537Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/extern/days/available - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:44.594Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/extern/days/available","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:44.594Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/extern/days/available - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:44.640Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/images/ajax-loader2.gif","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:44.640Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/extern/days/available","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:44.641Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/extern/days/available - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:44.742Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/extern/days/available","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:44.743Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/extern/days/available - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:44.830Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/images/ajax-loader2.gif - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:44.837Z"}
+{"level":"info","message":"Console du navigateur:","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:44.849Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/marker.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:44.851Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/marker.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:44.874Z"}
+{"level":"info","message":"Calendrier chargé","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:45.840Z"}
+{"error":{"name":"TimeoutError"},"level":"error","message":"Erreur lors de l'attente des créneaux","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:50.845Z"}
+{"error":{"name":"TimeoutError"},"level":"error","message":"Erreur lors de l'extraction des créneaux:","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:50.845Z"}
+{"level":"info","message":"Fermeture du navigateur...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:50.845Z"}
+{"level":"info","message":"Fermeture de la page...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:50.845Z"}
+{"level":"info","message":"Page fermée","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:50.856Z"}
+{"level":"info","message":"Fermeture du navigateur...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:50.856Z"}
+{"level":"info","message":"Navigateur fermé","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:51.020Z"}
+{"level":"info","message":"Nettoyage terminé","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:51.020Z"}
+{"level":"info","message":"Fin de l'extraction des créneaux","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:51.020Z"}
+{"level":"info","message":"Nouveaux créneaux extraits","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:51.021Z"}
+{"level":"info","message":"Aucun créneau trouvé, on réessaie...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:51.021Z"}
+{"level":"info","message":"Tentative de rafraîchissement 3/3","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:56.025Z"}
+{"level":"info","message":"Créneaux précédents chargés","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:56.030Z"}
+{"level":"info","message":"Début de l'extraction des créneaux","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:56.030Z"}
+{"level":"info","message":"Navigateur non initialisé, initialisation...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:56.030Z"}
+{"level":"info","message":"Initialisation du navigateur...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:56.030Z"}
+{"level":"info","message":"Instance du navigateur créée","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:56.662Z"}
+{"level":"info","message":"Utilisation de la page existante","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:56.683Z"}
+{"level":"info","message":"Page prête","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:56.683Z"}
+{"level":"info","message":"Navigateur initialisé avec succès","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:56.684Z"}
+{"level":"info","message":"Initialisation terminée","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:56.684Z"}
+{"level":"info","message":"Navigation vers https://www.doctoflex.fr/details/213049...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:56.684Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/details/213049","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:56.735Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/details/213049 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.100Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/css/chosen.css","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.106Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/css/style.css","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.107Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/css/jquery.minimalect.min.css","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.107Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/font-awesome.min.css?v=1","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.107Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/js/prototype.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.107Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/js/jquery-1.8.2.min.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.107Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/js/jQuery_v1.7.2.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.108Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/js/jquery.minimalect.min.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.108Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/js/setup.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.108Z"}
+{"level":"info","message":"Requête: https://fonts.googleapis.com/css?family=Ubuntu&subset=latin","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.108Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/reset.css?v=1","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.109Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/style.css?v=1","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.109Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/colors.css?v=1","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.109Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/modal.css?v=1","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.109Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/form.css?v=1","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.110Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/agenda.css?v=1","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.110Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/jquery-ui.css","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.110Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/bootstrap-datepicker/bootstrap-datepicker3.css","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.110Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/custom-datepicker.css","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.111Z"}
+{"level":"info","message":"Requête: https://fonts.googleapis.com/css?family=Open+Sans:300","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.113Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/extern/libs/modernizr.custom.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.114Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/logo.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.114Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/docteurs/avatars/MSR6tnu2VYmTVhMTG9ue.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.114Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/css/print.css","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.114Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/jquery.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.125Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/extern/setup.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.125Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/extern/navigable.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.125Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/extern/input.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.126Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/extern/modal.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.126Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/extern/tooltip.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.126Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/jquery-ui.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.126Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/datepicker-fr.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.126Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps/api/js?key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&v=3.exp","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.126Z"}
+{"level":"info","message":"Requête: https://cdn.rawgit.com/googlemaps/v3-utility-library/infobox/1.1.13/src/infobox.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.126Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/js/gmaps/gmaps.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.126Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/css/chosen.css - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.275Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/font-awesome.min.css?v=1 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.453Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/css/jquery.minimalect.min.css - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.455Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/reset.css?v=1 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.457Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/style.css?v=1 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.457Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/css/style.css - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.458Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/colors.css?v=1 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.486Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/form.css?v=1 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.487Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/agenda.css?v=1 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.489Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/modal.css?v=1 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.490Z"}
+{"level":"info","message":"Réponse: https://fonts.googleapis.com/css?family=Open+Sans:300 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.490Z"}
+{"level":"info","message":"Réponse: https://fonts.googleapis.com/css?family=Ubuntu&subset=latin - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.490Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/jquery-ui.css - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.491Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/bootstrap-datepicker/bootstrap-datepicker3.css - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.811Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/custom-datepicker.css - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.812Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/js/prototype.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.842Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/js/jquery.minimalect.min.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.852Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/extern/libs/modernizr.custom.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.853Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/logo.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.986Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/js/jquery-1.8.2.min.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:57.989Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/docteurs/avatars/MSR6tnu2VYmTVhMTG9ue.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.008Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/jquery.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.167Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/js/jQuery_v1.7.2.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.196Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/js/setup.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.204Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/extern/setup.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.205Z"}
+{"level":"info","message":"Console du navigateur:","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.233Z"}
+{"level":"info","message":"Requête: http://s7.addthis.com/js/300/addthis_widget.js#pubid=xa-5054e6c6502d114f","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.249Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/_patterns/default/white/1.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.249Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/sprite-icons-user.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.249Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/sprite.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.250Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/_patterns/default/grain2.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.250Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/_patterns/default/1.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.250Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/sprite-icons-social.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.250Z"}
+{"level":"info","message":"Requête: https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKfw72nU6AFw.woff2","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.250Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/fonts/fontawesome-webfont.woff?v=4.1.0","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.250Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/_patterns/default/white/1.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.358Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/sprite.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.365Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/sprite-icons-user.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.365Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/_patterns/default/grain2.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.367Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/css/print.css - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.368Z"}
+{"level":"info","message":"Réponse: https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKfw72nU6AFw.woff2 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.375Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/extern/navigable.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.530Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/extern/modal.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.532Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/extern/tooltip.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.533Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/extern/input.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.550Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/datepicker-fr.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.696Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/_patterns/default/1.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.700Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/fonts/fontawesome-webfont.woff?v=4.1.0 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.703Z"}
+{"level":"info","message":"Réponse: https://cdn.rawgit.com/googlemaps/v3-utility-library/infobox/1.1.13/src/infobox.js - Status: 301","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.704Z"}
+{"level":"info","message":"Requête: https://cdn.jsdelivr.net/gh/googlemaps/v3-utility-library@infobox/1.1.13/src/infobox.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.704Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/js/gmaps/gmaps.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.724Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/sprite-icons-social.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.728Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/jquery-ui.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.933Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps/api/js?key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&v=3.exp - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.967Z"}
+{"level":"info","message":"Console du navigateur:","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.984Z"}
+{"level":"info","message":"Console du navigateur:","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.984Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.986Z"}
+{"level":"info","message":"Réponse: https://cdn.jsdelivr.net/gh/googlemaps/v3-utility-library@infobox/1.1.13/src/infobox.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:58.987Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/images/ui-icons_222222_256x240.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:59.004Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/common.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:59.012Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/util.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:59.013Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/geocoder.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:59.014Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:59.022Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/images/ui-icons_222222_256x240.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:59.024Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/common.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:59.050Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/geocoder.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:59.068Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/util.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:59.091Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttps%3A%2F%2Fwww.doctoflex.fr%2Fdetails%2F213049&4sAIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&8b0&callback=_xdc_._gjnj50&key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&token=120817","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:59.097Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttps%3A%2F%2Fwww.doctoflex.fr%2Fdetails%2F213049&4sAIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&8b0&callback=_xdc_._gjnj50&key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&token=120817 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:59.150Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps/api/js/GeocodeService.Search?4s203%20Route%20de%20Lyon%2C%20Illkirch-Graffenstaden%2067400%2C%20france&9sfr-FR&r_url=https%3A%2F%2Fwww.doctoflex.fr%2Fdetails%2F213049&callback=_xdc_._aoemdu&key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&token=34776","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:59.151Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps/api/js/GeocodeService.Search?4s203%20Route%20de%20Lyon%2C%20Illkirch-Graffenstaden%2067400%2C%20france&9sfr-FR&r_url=https%3A%2F%2Fwww.doctoflex.fr%2Fdetails%2F213049&callback=_xdc_._aoemdu&key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&token=34776 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:59.204Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/map.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:59.210Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps/api/js/StaticMapService.GetMapImage?1m2&1i4373784&2i2897408&2e1&3u15&4m2&1u344&2u300&5m6&1e0&5sfr-FR&6sus&10b1&12b1&14i47083502&key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&token=61401","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:59.210Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps/api/js/StaticMapService.GetMapImage?1m2&1i4373784&2i2897408&2e1&3u15&4m2&1u344&2u300&5m6&1e0&5sfr-FR&6sus&10b1&12b1&14i47083502&key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&token=61401 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:59.239Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/map.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:59.240Z"}
+{"level":"info","message":"Requête: https://maps.gstatic.com/mapfiles/api-3/images/icon_error.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:47:59.241Z"}
+{"level":"info","message":"Réponse: https://maps.gstatic.com/mapfiles/api-3/images/icon_error.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:00.198Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/favicon.ico","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:00.200Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/favicon.ico - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:00.224Z"}
+{"level":"info","message":"Page chargée avec statut: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:00.873Z"}
+{"level":"info","message":"Attente du sélecteur de type de rendez-vous...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:00.874Z"}
+{"level":"info","message":"Sélecteur trouvé","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:00.881Z"}
+{"level":"info","message":"Sélection du type de rendez-vous (1973)...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:00.881Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/extern/days/available","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:00.884Z"}
+{"level":"info","message":"Type de rendez-vous sélectionné","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:00.885Z"}
+{"level":"info","message":"Attente de la mise à jour du calendrier...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:00.885Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/extern/days/available - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:00.927Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/extern/days/available","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:00.927Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/extern/days/available - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:00.974Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/images/ajax-loader2.gif","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:00.974Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/extern/days/available","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:00.974Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/extern/days/available - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:01.072Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/extern/days/available","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:01.073Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/extern/days/available - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:01.148Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/images/ajax-loader2.gif - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:01.149Z"}
+{"level":"info","message":"Console du navigateur:","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:01.209Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/marker.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:01.210Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/marker.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:01.256Z"}
+{"level":"info","message":"Calendrier chargé","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:01.890Z"}
+{"error":{"name":"TimeoutError"},"level":"error","message":"Erreur lors de l'attente des créneaux","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:06.896Z"}
+{"error":{"name":"TimeoutError"},"level":"error","message":"Erreur lors de l'extraction des créneaux:","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:06.896Z"}
+{"level":"info","message":"Fermeture du navigateur...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:06.896Z"}
+{"level":"info","message":"Fermeture de la page...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:06.896Z"}
+{"level":"info","message":"Page fermée","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:06.905Z"}
+{"level":"info","message":"Fermeture du navigateur...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:06.906Z"}
+{"level":"info","message":"Navigateur fermé","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:07.058Z"}
+{"level":"info","message":"Nettoyage terminé","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:07.059Z"}
+{"level":"info","message":"Fin de l'extraction des créneaux","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:07.059Z"}
+{"level":"info","message":"Nouveaux créneaux extraits","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:07.060Z"}
+{"level":"info","message":"Aucun créneau trouvé, on réessaie...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:07.060Z"}
+{"data":{"lastUpdate":"2025-03-28T09:48:07.059Z","slots":[]},"level":"info","message":"Notified clients of slots:new","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:07.060Z"}
+{"level":"info","message":"Notification des nouveaux créneaux envoyée","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:07.060Z"}
+{"level":"info","message":"0 nouveaux créneaux détectés","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:07.060Z"}
+{"level":"info","message":"Premier rafraîchissement des créneaux effectué avec succès","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:07.060Z"}
+{"level":"info","message":"Monitoring global démarré avec succès","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:07.060Z"}
+{"level":"info","message":"Notification de succès envoyée au client JmR3TFpea6ijvzU2AAAB","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:07.061Z"}
+{"level":"info","message":"Exécution du cron job de rafraîchissement...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:25.491Z"}
+{"level":"info","message":"Tentative de rafraîchissement 1/3","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:25.492Z"}
+{"level":"info","message":"Créneaux précédents chargés","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:25.494Z"}
+{"level":"info","message":"Début de l'extraction des créneaux","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:25.494Z"}
+{"level":"info","message":"Navigateur non initialisé, initialisation...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:25.494Z"}
+{"level":"info","message":"Initialisation du navigateur...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:25.494Z"}
+{"level":"info","message":"Instance du navigateur créée","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.108Z"}
+{"level":"info","message":"Utilisation de la page existante","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.181Z"}
+{"level":"info","message":"Page prête","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.181Z"}
+{"level":"info","message":"Navigateur initialisé avec succès","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.181Z"}
+{"level":"info","message":"Initialisation terminée","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.181Z"}
+{"level":"info","message":"Navigation vers https://www.doctoflex.fr/details/213049...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.181Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/details/213049","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.288Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/details/213049 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.431Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/css/chosen.css","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.468Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/css/style.css","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.469Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/css/jquery.minimalect.min.css","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.471Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/font-awesome.min.css?v=1","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.471Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/js/prototype.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.472Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/js/jquery-1.8.2.min.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.473Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/js/jQuery_v1.7.2.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.473Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/js/jquery.minimalect.min.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.473Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/js/setup.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.474Z"}
+{"level":"info","message":"Requête: https://fonts.googleapis.com/css?family=Ubuntu&subset=latin","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.474Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/reset.css?v=1","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.474Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/style.css?v=1","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.474Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/colors.css?v=1","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.474Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/modal.css?v=1","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.475Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/form.css?v=1","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.475Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/agenda.css?v=1","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.476Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/jquery-ui.css","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.476Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/bootstrap-datepicker/bootstrap-datepicker3.css","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.476Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/css/extern/custom-datepicker.css","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.476Z"}
+{"level":"info","message":"Requête: https://fonts.googleapis.com/css?family=Open+Sans:300","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.476Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/extern/libs/modernizr.custom.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.476Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/logo.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.476Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/docteurs/avatars/MSR6tnu2VYmTVhMTG9ue.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.476Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/css/print.css","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.477Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/jquery.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.478Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/extern/setup.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.478Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/extern/navigable.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.478Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/extern/input.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.478Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/extern/modal.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.479Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/extern/tooltip.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.479Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/jquery-ui.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.480Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/js/datepicker-fr.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.480Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps/api/js?key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&v=3.exp","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.480Z"}
+{"level":"info","message":"Requête: https://cdn.rawgit.com/googlemaps/v3-utility-library/infobox/1.1.13/src/infobox.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.480Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/js/gmaps/gmaps.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.480Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/css/chosen.css - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.503Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/font-awesome.min.css?v=1 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.531Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/reset.css?v=1 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.534Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/style.css?v=1 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.534Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/css/jquery.minimalect.min.css - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.536Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/css/style.css - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.538Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/colors.css?v=1 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.550Z"}
+{"level":"info","message":"Réponse: https://fonts.googleapis.com/css?family=Ubuntu&subset=latin - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.563Z"}
+{"level":"info","message":"Réponse: https://fonts.googleapis.com/css?family=Open+Sans:300 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.564Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/modal.css?v=1 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.565Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/agenda.css?v=1 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.565Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/form.css?v=1 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.566Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/jquery-ui.css - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.588Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/bootstrap-datepicker/bootstrap-datepicker3.css - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.592Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/css/extern/custom-datepicker.css - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.595Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/js/jquery-1.8.2.min.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.629Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/js/jquery.minimalect.min.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.630Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/js/prototype.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.631Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/logo.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.657Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/extern/libs/modernizr.custom.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.657Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/docteurs/avatars/MSR6tnu2VYmTVhMTG9ue.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.663Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/js/jQuery_v1.7.2.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.720Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/js/setup.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.725Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/jquery.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.726Z"}
+{"level":"info","message":"Console du navigateur:","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.749Z"}
+{"level":"info","message":"Requête: http://s7.addthis.com/js/300/addthis_widget.js#pubid=xa-5054e6c6502d114f","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.765Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/_patterns/default/white/1.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.766Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/sprite-icons-user.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.766Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/sprite.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.766Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/_patterns/default/grain2.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.766Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/_patterns/default/1.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.766Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/sprite-icons-social.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.766Z"}
+{"level":"info","message":"Requête: https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKfw72nU6AFw.woff2","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.769Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/fonts/fontawesome-webfont.woff?v=4.1.0","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.769Z"}
+{"level":"info","message":"Réponse: https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKfw72nU6AFw.woff2 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.807Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/_patterns/default/white/1.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.849Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/sprite-icons-user.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.854Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/sprite.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.855Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/extern/setup.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.884Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/_patterns/default/grain2.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.886Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/css/print.css - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.893Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/extern/navigable.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.894Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/extern/input.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.911Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/extern/modal.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.921Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/extern/tooltip.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.932Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/datepicker-fr.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.938Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/fonts/fontawesome-webfont.woff?v=4.1.0 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.942Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/_patterns/default/1.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.965Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/sprite-icons-social.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.967Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps/api/js?key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&v=3.exp - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.969Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/js/gmaps/gmaps.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.978Z"}
+{"level":"info","message":"Réponse: https://cdn.rawgit.com/googlemaps/v3-utility-library/infobox/1.1.13/src/infobox.js - Status: 301","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.985Z"}
+{"level":"info","message":"Requête: https://cdn.jsdelivr.net/gh/googlemaps/v3-utility-library@infobox/1.1.13/src/infobox.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:26.985Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/js/jquery-ui.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:27.033Z"}
+{"level":"info","message":"Console du navigateur:","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:27.050Z"}
+{"level":"info","message":"Console du navigateur:","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:27.051Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:27.052Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:27.094Z"}
+{"level":"info","message":"Réponse: https://cdn.jsdelivr.net/gh/googlemaps/v3-utility-library@infobox/1.1.13/src/infobox.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:27.116Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/images/ui-icons_222222_256x240.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:27.132Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/common.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:27.140Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/util.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:27.140Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/geocoder.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:27.140Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/images/ui-icons_222222_256x240.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:27.156Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/geocoder.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:27.185Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/common.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:27.196Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/util.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:27.217Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttps%3A%2F%2Fwww.doctoflex.fr%2Fdetails%2F213049&4sAIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&8b0&callback=_xdc_._gjnj50&key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&token=120817","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:27.222Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttps%3A%2F%2Fwww.doctoflex.fr%2Fdetails%2F213049&4sAIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&8b0&callback=_xdc_._gjnj50&key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&token=120817 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:27.303Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps/api/js/GeocodeService.Search?4s203%20Route%20de%20Lyon%2C%20Illkirch-Graffenstaden%2067400%2C%20france&9sfr-FR&r_url=https%3A%2F%2Fwww.doctoflex.fr%2Fdetails%2F213049&callback=_xdc_._aoemdu&key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&token=34776","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:27.304Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps/api/js/GeocodeService.Search?4s203%20Route%20de%20Lyon%2C%20Illkirch-Graffenstaden%2067400%2C%20france&9sfr-FR&r_url=https%3A%2F%2Fwww.doctoflex.fr%2Fdetails%2F213049&callback=_xdc_._aoemdu&key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&token=34776 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:27.356Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/map.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:27.362Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps/api/js/StaticMapService.GetMapImage?1m2&1i4373784&2i2897408&2e1&3u15&4m2&1u344&2u300&5m6&1e0&5sfr-FR&6sus&10b1&12b1&14i47083502&key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&token=61401","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:27.363Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/map.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:27.386Z"}
+{"level":"info","message":"Requête: https://maps.gstatic.com/mapfiles/api-3/images/icon_error.png","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:27.388Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps/api/js/StaticMapService.GetMapImage?1m2&1i4373784&2i2897408&2e1&3u15&4m2&1u344&2u300&5m6&1e0&5sfr-FR&6sus&10b1&12b1&14i47083502&key=AIzaSyAQT4xZjAhjFWzt0iRE_ACcPSzakt5eylA&token=61401 - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:27.462Z"}
+{"level":"info","message":"Réponse: https://maps.gstatic.com/mapfiles/api-3/images/icon_error.png - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:28.345Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/flex_assets/images/favicon.ico","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:28.350Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/flex_assets/images/favicon.ico - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:28.382Z"}
+{"level":"info","message":"Page chargée avec statut: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:29.009Z"}
+{"level":"info","message":"Attente du sélecteur de type de rendez-vous...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:29.009Z"}
+{"level":"info","message":"Sélecteur trouvé","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:29.020Z"}
+{"level":"info","message":"Sélection du type de rendez-vous (1973)...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:29.021Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/extern/days/available","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:29.024Z"}
+{"level":"info","message":"Type de rendez-vous sélectionné","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:29.024Z"}
+{"level":"info","message":"Attente de la mise à jour du calendrier...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:29.025Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/extern/days/available - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:29.079Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/extern/days/available","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:29.080Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/extern/days/available - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:29.128Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/images/ajax-loader2.gif","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:29.129Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/extern/days/available","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:29.129Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/extern/days/available - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:29.239Z"}
+{"level":"info","message":"Requête: https://www.doctoflex.fr/extern/days/available","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:29.239Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/extern/days/available - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:29.329Z"}
+{"level":"info","message":"Réponse: https://www.doctoflex.fr/images/ajax-loader2.gif - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:29.329Z"}
+{"level":"info","message":"Console du navigateur:","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:29.364Z"}
+{"level":"info","message":"Requête: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/marker.js","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:29.365Z"}
+{"level":"info","message":"Réponse: https://maps.googleapis.com/maps-api-v3/api/js/60/6/intl/fr_ALL/marker.js - Status: 200","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:29.389Z"}
+{"level":"info","message":"Calendrier chargé","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:30.029Z"}
+{"error":{"name":"TimeoutError"},"level":"error","message":"Erreur lors de l'attente des créneaux","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:35.033Z"}
+{"error":{"name":"TimeoutError"},"level":"error","message":"Erreur lors de l'extraction des créneaux:","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:35.033Z"}
+{"level":"info","message":"Fermeture du navigateur...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:35.033Z"}
+{"level":"info","message":"Fermeture de la page...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:35.033Z"}
+{"level":"info","message":"Page fermée","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:35.045Z"}
+{"level":"info","message":"Fermeture du navigateur...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:35.046Z"}
+{"level":"info","message":"Navigateur fermé","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:35.216Z"}
+{"level":"info","message":"Nettoyage terminé","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:35.216Z"}
+{"level":"info","message":"Fin de l'extraction des créneaux","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:35.216Z"}
+{"level":"info","message":"Nouveaux créneaux extraits","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:35.216Z"}
+{"level":"info","message":"Aucun créneau trouvé, on réessaie...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:48:35.216Z"}
+{"level":"info","logLevel":"info","message":"Environment configuration loaded","nodeEnv":"development","port":3000,"service":"doctoflex-monitor","timestamp":"2025-03-28T09:52:30.955Z"}
+{"config":{"autoRefresh":true,"dateRange":{"endDate":null,"startDate":null},"doctorUrl":"https://www.doctoflex.fr/details/213049","monitoringInterval":1,"notifications":{"enabled":true,"preferences":{}}},"level":"info","message":"Configuration chargée depuis le fichier","service":"doctoflex-monitor","timestamp":"2025-03-28T09:52:31.428Z"}
+{"level":"info","message":"Serveur démarré sur le port 3000","service":"doctoflex-monitor","timestamp":"2025-03-28T09:52:31.432Z"}
+{"level":"info","message":"SocketService initialized","service":"doctoflex-monitor","timestamp":"2025-03-28T09:52:31.433Z"}
+{"level":"info","message":"MonitoringService initialized","service":"doctoflex-monitor","timestamp":"2025-03-28T09:52:31.436Z"}
+{"level":"info","message":"Tous les services sont initialisés","service":"doctoflex-monitor","timestamp":"2025-03-28T09:52:31.436Z"}
+{"level":"info","message":"Client connecté: GN6dYTES7qNuuCMyAAAC","service":"doctoflex-monitor","timestamp":"2025-03-28T09:54:18.241Z"}
+{"level":"info","message":"Envoi de l'état du monitoring au client GN6dYTES7qNuuCMyAAAC: inactif","service":"doctoflex-monitor","timestamp":"2025-03-28T09:54:18.242Z"}
+{"level":"info","message":"Envoi des créneaux sauvegardés au client GN6dYTES7qNuuCMyAAAC","service":"doctoflex-monitor","timestamp":"2025-03-28T09:54:18.337Z"}
+{"level":"info","logLevel":"info","message":"Environment configuration loaded","nodeEnv":"development","port":3000,"service":"doctoflex-monitor","timestamp":"2025-03-28T09:56:23.509Z"}
+{"config":{"autoRefresh":true,"dateRange":{"endDate":null,"startDate":null},"doctorUrl":"https://www.doctoflex.fr/details/213049","monitoringInterval":1,"notifications":{"enabled":true,"preferences":{}}},"level":"info","message":"Configuration chargée depuis le fichier","service":"doctoflex-monitor","timestamp":"2025-03-28T09:56:24.105Z"}
+{"level":"info","logLevel":"info","message":"Environment configuration loaded","nodeEnv":"development","port":3000,"service":"doctoflex-monitor","timestamp":"2025-03-28T09:58:04.340Z"}
+{"config":{"autoRefresh":true,"dateRange":{"endDate":null,"startDate":null},"doctorUrl":"https://www.doctoflex.fr/details/213049","monitoringInterval":1,"notifications":{"enabled":true,"preferences":{}}},"level":"info","message":"Configuration chargée depuis le fichier","service":"doctoflex-monitor","timestamp":"2025-03-28T09:58:04.548Z"}
+{"level":"info","message":"Serveur démarré sur le port 3000","service":"doctoflex-monitor","timestamp":"2025-03-28T09:58:04.551Z"}
+{"level":"info","message":"SocketService initialized","service":"doctoflex-monitor","timestamp":"2025-03-28T09:58:04.552Z"}
+{"level":"info","message":"MonitoringService initialized","service":"doctoflex-monitor","timestamp":"2025-03-28T09:58:04.556Z"}
+{"level":"info","message":"Tous les services sont initialisés","service":"doctoflex-monitor","timestamp":"2025-03-28T09:58:04.557Z"}
+{"level":"info","message":"Client connecté: Bx0UZKCNnnb14U5oAAAB","service":"doctoflex-monitor","timestamp":"2025-03-28T09:58:10.539Z"}
+{"level":"info","message":"Envoi de l'état du monitoring au client Bx0UZKCNnnb14U5oAAAB: inactif","service":"doctoflex-monitor","timestamp":"2025-03-28T09:58:10.540Z"}
+{"level":"info","message":"Envoi des créneaux sauvegardés au client Bx0UZKCNnnb14U5oAAAB","service":"doctoflex-monitor","timestamp":"2025-03-28T09:58:10.552Z"}
+{"level":"info","message":"Client connecté: vhF4eTzIwgj2hsmLAAAD","service":"doctoflex-monitor","timestamp":"2025-03-28T09:59:39.424Z"}
+{"level":"info","message":"Envoi de l'état du monitoring au client vhF4eTzIwgj2hsmLAAAD: inactif","service":"doctoflex-monitor","timestamp":"2025-03-28T09:59:39.424Z"}
+{"level":"info","message":"Envoi des créneaux sauvegardés au client vhF4eTzIwgj2hsmLAAAD","service":"doctoflex-monitor","timestamp":"2025-03-28T09:59:39.440Z"}
+{"level":"info","message":"Réception de la demande de rafraîchissement des créneaux","service":"doctoflex-monitor","timestamp":"2025-03-28T09:59:41.906Z"}
+{"level":"info","message":"Navigation vers https://www.doctoflex.fr/details/213049...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:59:41.906Z"}
+{"level":"info","message":"Page chargée avec succès","service":"doctoflex-monitor","timestamp":"2025-03-28T09:59:44.796Z"}
+{"level":"info","message":"Attente du sélecteur de type de rendez-vous...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:59:44.796Z"}
+{"level":"info","message":"Sélecteur trouvé","service":"doctoflex-monitor","timestamp":"2025-03-28T09:59:44.811Z"}
+{"level":"info","message":"Sélection du type de rendez-vous (1973)...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:59:44.811Z"}
+{"level":"info","message":"Type de rendez-vous sélectionné","service":"doctoflex-monitor","timestamp":"2025-03-28T09:59:44.815Z"}
+{"level":"info","message":"Attente de la mise à jour du calendrier...","service":"doctoflex-monitor","timestamp":"2025-03-28T09:59:44.815Z"}
+{"level":"info","message":"Calendrier chargé","service":"doctoflex-monitor","timestamp":"2025-03-28T09:59:45.820Z"}
+{"error":{"name":"TimeoutError"},"level":"error","message":"Erreur lors de l'attente des créneaux","service":"doctoflex-monitor","timestamp":"2025-03-28T09:59:50.872Z"}
+{"error":{"name":"TimeoutError"},"level":"error","message":"Erreur lors de l'extraction des créneaux:","service":"doctoflex-monitor","timestamp":"2025-03-28T09:59:50.872Z"}
+{"level":"error","message":"Erreur lors du rafraîchissement manuel des créneaux: Waiting for selector `.agenda-event` failed: Waiting failed: 5000ms exceeded","name":"TimeoutError","service":"doctoflex-monitor","stack":"TimeoutError: Waiting for selector `.agenda-event` failed: Waiting failed: 5000ms exceeded\n    at new WaitTask (/Users/mathieu/dev/perso/doctoflex-monitor/node_modules/puppeteer-core/src/common/WaitTask.ts:76:28)\n    at IsolatedWorld.waitForFunction (/Users/mathieu/dev/perso/doctoflex-monitor/node_modules/puppeteer-core/src/api/Realm.ts:74:22)\n    at Function.waitFor (/Users/mathieu/dev/perso/doctoflex-monitor/node_modules/puppeteer-core/src/common/QueryHandler.ts:170:50)\n    at CdpFrame.waitForSelector (/Users/mathieu/dev/perso/doctoflex-monitor/node_modules/puppeteer-core/src/api/Frame.ts:731:13)\n    at CdpPage.waitForSelector (/Users/mathieu/dev/perso/doctoflex-monitor/node_modules/puppeteer-core/src/api/Page.ts:2962:12)\n    at SlotScraper.extractSlots (/Users/mathieu/dev/perso/doctoflex-monitor/src/services/SlotScraper.ts:105:9)\n    at MonitoringService.refreshSlots (/Users/mathieu/dev/perso/doctoflex-monitor/src/services/MonitoringService.ts:70:19)\n    at Socket.<anonymous> (/Users/mathieu/dev/perso/doctoflex-monitor/src/services/MonitoringService.ts:270:23)","timestamp":"2025-03-28T09:59:51.053Z"}
