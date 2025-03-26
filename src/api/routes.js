@@ -15,6 +15,14 @@ router.get('/status', (req, res) => {
     });
 });
 
+// Récupérer les derniers créneaux disponibles
+router.get('/slots/latest', (req, res) => {
+    const slots = getFoundSlots();
+    res.json({
+        slots: slots || []
+    });
+});
+
 // Activer/désactiver le job
 router.post('/toggle', (req, res) => {
     const isActive = toggleJob();
