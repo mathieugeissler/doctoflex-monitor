@@ -4,16 +4,20 @@ Application de surveillance des créneaux de rendez-vous sur Doctoflex.fr
 
 ## Fonctionnalités
 
-- Surveillance automatique des créneaux
+- Surveillance automatique des créneaux de rendez-vous
 - Filtrage par plage de dates
-- Notifications en temps réel
-- Interface utilisateur intuitive
-- Configuration personnalisable
+- Notifications en temps réel dans le navigateur
+- Interface utilisateur moderne avec Tailwind CSS
+- Configuration personnalisable (intervalle, notifications)
+- Mode sombre/clair automatique
+- Indicateurs de statut en temps réel
+- Historique des créneaux
 
 ## Prérequis
 
 - Node.js >= 18
 - npm >= 9
+- Un navigateur moderne (Chrome, Firefox, Safari, Edge)
 
 ## Installation
 
@@ -28,7 +32,7 @@ cd doctoflex-monitor
 npm install
 ```
 
-3. Configurer les variables d'environnement :
+3. Configurer l'environnement :
 ```bash
 cp .env.example .env
 ```
@@ -37,13 +41,7 @@ cp .env.example .env
 ```env
 PORT=3000
 NODE_ENV=development
-CORS_ORIGINS=http://localhost:3000
 LOG_LEVEL=info
-PUPPETEER_HEADLESS=true
-LOG_FILE_DIR=./logs
-LOG_MAX_FILES=14
-LOG_MAX_SIZE=20m
-DOCTOFLEX_URL=https://www.doctolib.fr/medecin/example
 ```
 
 ## Développement
@@ -55,9 +53,11 @@ npm run dev
 
 L'application sera accessible sur http://localhost:3000
 
+Les modifications du code TypeScript et des styles Tailwind sont automatiquement rechargées.
+
 ## Tests
 
-Exécuter les tests unitaires :
+Exécuter tous les tests :
 ```bash
 npm test
 ```
@@ -67,28 +67,9 @@ Exécuter les tests d'intégration :
 npm run test:integration
 ```
 
-Vérifier la couverture de code :
+Exécuter les tests unitaires :
 ```bash
-npm run test:coverage
-```
-
-## Build
-
-Compiler l'application pour la production :
-```bash
-npm run build
-```
-
-## Déploiement
-
-1. Compiler l'application :
-```bash
-npm run build
-```
-
-2. Démarrer le serveur :
-```bash
-npm start
+npm run test:unit
 ```
 
 ## Structure du Projet
@@ -98,31 +79,59 @@ doctoflex-monitor/
 ├── src/
 │   ├── config/         # Configuration
 │   ├── services/       # Services métier
-│   ├── routes/         # Routes API
+│   │   ├── SlotScraper.ts      # Extraction des créneaux
+│   │   ├── MonitoringService.ts # Gestion du monitoring
+│   │   ├── SlotNotifier.ts     # Notifications
+│   │   └── SlotStorage.ts      # Stockage des créneaux
+│   ├── types/          # Types TypeScript
 │   ├── utils/          # Utilitaires
 │   └── server.ts       # Point d'entrée
-├── public/             # Fichiers statiques
-│   ├── css/           # Styles CSS
+├── public/
+│   ├── css/           # Styles compilés
 │   ├── js/            # JavaScript client
+│   │   ├── services/  # Services client
+│   │   └── ui/        # Composants UI
 │   └── index.html     # Page principale
-├── test/              # Tests
-│   ├── unit/          # Tests unitaires
-│   └── integration/   # Tests d'intégration
-└── dist/              # Build production
+└── test/
+    ├── unit/          # Tests unitaires
+    └── integration/   # Tests d'intégration
 ```
 
-## API
+## Événements WebSocket
 
-### Configuration
+### Client vers Serveur
 
-- `GET /api/config` - Récupérer la configuration
-- `PUT /api/config` - Mettre à jour la configuration
-- `POST /api/config/reset` - Réinitialiser la configuration
+- `monitoring:start` - Démarrer la surveillance
+- `monitoring:stop` - Arrêter la surveillance
+- `slots:refresh` - Rafraîchir manuellement les créneaux
+- `config:update` - Mettre à jour la configuration
 
-### WebSocket
+### Serveur vers Client
 
+- `monitoring:status` - État de la surveillance (actif/inactif)
 - `slots:new` - Nouveaux créneaux disponibles
+- `slots:refresh:complete` - Rafraîchissement terminé
+- `config:changed` - Configuration mise à jour
 - `error` - Erreur de monitoring
+
+## Configuration
+
+La configuration est stockée dans `config.json` et peut être modifiée via l'interface :
+
+```json
+{
+  "monitoringInterval": 1,
+  "autoRefresh": true,
+  "notifications": {
+    "enabled": true
+  },
+  "dateRange": {
+    "startDate": null,
+    "endDate": null
+  },
+  "doctorUrl": "https://www.doctoflex.fr/details/213049"
+}
+```
 
 ## Contribution
 
